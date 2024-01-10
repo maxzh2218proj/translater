@@ -1,0 +1,25 @@
+.wrapper{
+    
+    .header{
+        display: flex;
+        justify-content: center;
+    }
+
+    .input{
+        display: flex;
+        width: 400px;
+        height: 200px;
+        padding: 15px;
+        border-radius: 15px;
+    }
+
+    .output{
+        display: flex;
+        width: 400px;
+        height: 200px;
+        padding: 15px;
+        border-radius: 15px;
+        border: 1px solid black;
+    }
+
+}
